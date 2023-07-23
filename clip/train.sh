@@ -1,0 +1,1 @@
+python create_model.py openai/clip-vit-base-patch32
